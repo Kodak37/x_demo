@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+  <rect width="600" height="320" fill="#1e1e1e"/>
+  <rect width="600" height="28" fill="#323233"/>
+  <circle cx="16" cy="14" r="5" fill="#ff5f57"/>
+  <circle cx="34" cy="14" r="5" fill="#febc2e"/>
+  <circle cx="52" cy="14" r="5" fill="#28c840"/>
+  <rect x="0" y="28" width="380" height="292" fill="#1e1e1e"/>
+  <rect x="380" y="28" width="220" height="292" fill="#252526"/>
+  <text x="392" y="50" fill="#9cdcfe" font-family="monospace" font-size="13">Elements</text>
+  <text x="392" y="76" fill="#808080" font-family="monospace" font-size="12">&lt;div class="profile-name"&gt;</text>
+  <text x="404" y="96" fill="#ce9178" font-family="monospace" font-size="12">山田 太郎</text>
+  <text x="392" y="116" fill="#808080" font-family="monospace" font-size="12">&lt;/div&gt;</text>
+  <rect x="392" y="130" width="196" height="20" fill="rgba(29,155,240,0.25)"/>
+  <text x="396" y="144" fill="#e7e9ea" font-family="monospace" font-size="11">ダブルクリックで編集中…</text>
+  <rect x="20" y="50" width="340" height="60" rx="30" fill="#1d9bf0"/>
+  <circle cx="50" cy="80" r="22" fill="#e8f5fd"/>
+  <text x="85" y="76" fill="#fff" font-family="sans-serif" font-size="16" font-weight="bold">山田 太郎</text>
+  <text x="85" y="95" fill="#dceffd" font-family="sans-serif" font-size="12">@yamada_taro</text>
+  <text x="20" y="150" fill="#e7e9ea" font-family="sans-serif" font-size="13">フォロワー：312</text>
+  <text x="20" y="175" fill="#e7e9ea" font-family="sans-serif" font-size="13">フォロー中：128</text>
+</svg>
